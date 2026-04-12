@@ -1,30 +1,43 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=1&section=header&text=Hi%20there!%20I'm%20Vaibhav%20Raghav&fontSize=50&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Vaibhavraghav108">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+What's+up%3F;I+love+building+smart+systems+%F0%9F%A4%96;Solving+problems+with+code+%F0%9F%9A%80;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Hey 👋 What's up?<br><br>I'm Vaibhav Raghav, a Computer Science student specializing in AI 🤖  <br>I love building smart systems and solving real-world problems with code 🚀</p>
+<p align="left"><br><br>I'm Vaibhav Raghav, a Computer Science student specializing in AI 🤖  <br>I love building smart systems and solving real-world problems with code 🚀</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
+
+
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <table border="0">
+    <tr>
+      <td width="60%">
+        <h3 align="left">👨‍💻 About Me</h3>
+        <p align="left">
+          ✨ <b>Creating bugs since 2022</b> 😅<br><br>
+          📚 <b>Currently learning:</b> DSA, AI, LangChain.<br><br>
+          🎯 <b>Goals:</b> Crack top tech interviews & build impactful AI products.<br><br>
+          🎲 <b>Fun fact:</b> I debug faster after coffee ☕.
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img height="180" src="https://i.imgflip.com/65efzo.gif" alt="Funny GIF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
-
-<p align="left">✨ Creating bugs since 2022 😅  <br>📚 Currently learning: DSA, AI, LangChain  <br>🎯 Goals: Crack top tech interviews & build impactful AI products  <br>🎲 Fun fact: I debug faster after coffee ☕</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
@@ -133,19 +146,6 @@
 </div>
 
 ###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
 
 ###
 
