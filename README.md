@@ -14,16 +14,20 @@
   <table border="0">
     <tr>
       <td width="60%">
-        <h3 align="left">👨‍💻 About Me</h3>
+        <h2 align="center">👨‍💻 About Me</h2>
         <p align="left">
-          ✨ <b>Creating bugs since 2022</b> 😅<br><br>
-          📚 <b>Currently learning:</b> DSA, AI, LangChain.<br><br>
-          🎯 <b>Goals:</b> Crack top tech interviews & build impactful AI products.<br><br>
-          🎲 <b>Fun fact:</b> I debug faster after coffee ☕.
+  ✨ The Journey: Writing code, creating bugs, and fixing them via StackOverflow since 2022.
+  
+  🧠 Obsessions: Artificial Intelligence, data structures, and making UIs look insanely good.
+  
+  🎯 Next Checkpoint: Cracking technical interviews and building an AI product people actually use.
+  
+  🎲 Secret Weapon: My code compiles 10x faster when I am sufficiently caffeinated.
         </p>
       </td>
       <td width="40%" align="center">
-        <img height="180" src="https://i.imgflip.com/65efzo.gif" alt="Funny GIF" />
+              <!-- Sleek, abstract coding aesthetic GIF instead of a casual meme -->
+        <img height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding Aesthetic" style="border-radius: 10px;" />
       </td>
     </tr>
   </table>
