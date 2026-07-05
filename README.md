@@ -16,7 +16,7 @@
       <td width="60%">
         <h2 align="center">👨‍💻 About Me</h2>
         <p align="left">
-  ✨ The Journey: Writing code, creating bugs, and fixing them via StackOverflow since 2022.
+  ✨ The Journey: Writing code, creating bugs, and fixing.
   
   🧠 Obsessions: Artificial Intelligence, data structures, and making UIs look insanely good.
   
